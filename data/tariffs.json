@@ -1,0 +1,58 @@
+{
+  "free": {
+    "id": "free",
+    "name": "🔰 Free",
+    "price": 0,
+    "features": {
+      "clockNick": true,
+      "clockBio": false,
+      "noAds": false,
+      "bioFonts": false,
+      "allFonts": false,
+      "onlineMode": false
+    },
+    "description": "Profil soat: ✅\nReklama bilan: ⚠️"
+  },
+  "standard": {
+    "id": "standard",
+    "name": "⏰ Standard",
+    "price": 2000,
+    "features": {
+      "clockNick": true,
+      "clockBio": false,
+      "noAds": true,
+      "bioFonts": false,
+      "allFonts": false,
+      "onlineMode": false
+    },
+    "description": "Profil soat: ✅\nReklamasiz: ✅"
+  },
+  "plus": {
+    "id": "plus",
+    "name": "✨ Plus",
+    "price": 5000,
+    "features": {
+      "clockNick": true,
+      "clockBio": true,
+      "noAds": true,
+      "bioFonts": true,
+      "allFonts": false,
+      "onlineMode": false
+    },
+    "description": "Profil soat: ✅\nReklamasiz: ✅\nBioga soat: ✅\nSoat fontlari: Ba'zi fontlar"
+  },
+  "premium": {
+    "id": "premium",
+    "name": "⭐️ Premium",
+    "price": 10000,
+    "features": {
+      "clockNick": true,
+      "clockBio": true,
+      "noAds": true,
+      "bioFonts": true,
+      "allFonts": true,
+      "onlineMode": true
+    },
+    "description": "Profil soat: ✅\nReklamasiz: ✅\nBioga soat: ✅\nOnline Mode: ✅\nSoat fontlari: Hamma fontlar"
+  }
+}

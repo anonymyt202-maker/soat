@@ -1,0 +1,57 @@
+[
+  {
+    "userId": 8578022154,
+    "cardType": "humo",
+    "fileId": "AgACAgIAAxkBAAOzajQuO8lvesweiM5TOJN0cRuKsVUAAi8daxskMaBJyWOy7ixGkSwBAAMCAAN3AAM8BA",
+    "status": "confirmed",
+    "amount": 10000,
+    "id": "1781804603190",
+    "createdAt": "2026-06-18T17:43:23.190Z",
+    "confirmedBy": 8578022154,
+    "confirmedAt": "2026-06-18T17:43:46.963Z"
+  },
+  {
+    "userId": 8548526054,
+    "cardType": "humo",
+    "fileId": "AgACAgIAAxkBAAIBfWo3XBAfPNm53zSaTdRLAAGs0xREzAAC6BZrG0kmwEmDgF1wnMnGIwEAAwIAA3kAAzwE",
+    "status": "confirmed",
+    "amount": 10000,
+    "id": "1782012944386",
+    "createdAt": "2026-06-21T03:35:44.386Z",
+    "confirmedBy": 8578022154,
+    "confirmedAt": "2026-06-21T03:35:53.342Z"
+  },
+  {
+    "userId": 8742423913,
+    "cardType": "humo",
+    "fileId": "AgACAgEAAxkBAAIBnmo3Z9ZxMalXb4RboKyK9DsL47HlAAICDGsbcmfARVAfWjeS5QpYAQADAgADdwADPAQ",
+    "status": "confirmed",
+    "amount": 100000,
+    "id": "1782015958713",
+    "createdAt": "2026-06-21T04:25:58.714Z",
+    "confirmedBy": 8578022154,
+    "confirmedAt": "2026-06-21T04:26:24.667Z"
+  },
+  {
+    "userId": 8936835411,
+    "cardType": "humo",
+    "fileId": "AgACAgIAAxkBAAIB-Go3b0oczeQ0LLxyNOMN-uD8bw33AAInGWsbGUC4SYNQRnAr_BK_AQADAgADeQADPAQ",
+    "status": "rejected",
+    "amount": null,
+    "id": "1782017866900",
+    "createdAt": "2026-06-21T04:57:46.900Z",
+    "rejectReason": "🖕",
+    "rejectedBy": 8578022154
+  },
+  {
+    "userId": 8742423913,
+    "cardType": "humo",
+    "fileId": "AgACAgEAAxkBAAICA2o3b5SnkFx2SSVLomsBuFBkCju-AAIDDGsbcmfARehIUQABn5dL8gEAAwIAA3kAAzwE",
+    "status": "rejected",
+    "amount": null,
+    "id": "1782017940423",
+    "createdAt": "2026-06-21T04:59:00.423Z",
+    "rejectReason": "🥱🏧💫🏧👻🎫😁",
+    "rejectedBy": 8578022154
+  }
+]
